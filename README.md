@@ -1,6 +1,5 @@
 # PMKNet
-·····
-论文接收后公开完整代码
+
 # Dataset Official Download Source
 All datasets are for **academic non-commercial use only**, all links are official original sources.
 
